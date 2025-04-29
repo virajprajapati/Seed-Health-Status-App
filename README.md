@@ -4,9 +4,7 @@ A Streamlit-based machine learning web app to predict the **health status of pot
 
 ## 🚀 Demo
 
-🔗 [Launch the App on Streamlit](https://seed-health-status-app.streamlit.app/) *(Replace with actual link after deployment)*
-
----
+[Launch the App on Streamlit]
 
 ## 📂 Project Structure
 
